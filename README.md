@@ -59,10 +59,6 @@ Each query supports a real feature or metric in the app.
 
 ## 📁 Repository Structure
 
-- [SQL File](https://github.com/josedeleon-analytics/virtual-closet-platform/blob/main/sql/Final%20project%20SQL%20FILE.sql): SQL scripts used to implement the virtual closet database and generate analytics reports.
-
-📁 Repository Structure
-
 - [README.md](README.md): Project overview and documentation  
 - [SQL FILE](sql/Final%20project%20SQL%20FILE.sql): SQL scripts used for database creation, business logic, and analytics  
 - [ER diagram](erd/ER%20diagram.jpg): Entity-Relationship diagram visualizing the database schema  
