@@ -63,11 +63,11 @@ Each query supports a real feature or metric in the app.
 
 📁 Repository Structure
 
-- [`README.md`](README.md): Project overview and documentation  
-- [`sql/Final project SQL FILE.sql`](sql/Final%20project%20SQL%20FILE.sql): SQL scripts used for database creation, business logic, and analytics  
+- [README.md](README.md): Project overview and documentation  
+- [SQL FILE](sql/Final%20project%20SQL%20FILE.sql): SQL scripts used for database creation, business logic, and analytics  
 - [ER diagram](erd/ER%20diagram.jpg): Entity-Relationship diagram visualizing the database schema  
-- [`presentation/Virtual-Closet-Platform.pdf`](presentation/Virtual-Closet-Platform.pdf): Final presentation for the project  
-- [`assets/seller_dashboard_mockup.png`](assets/Taylor_Seller_Dashboard_Mockup.pdf): Sample mockup of seller dashboard  
+- [Virtual Closet Presentation](presentation/Virtual-Closet-Platform.pdf): Final presentation for the project  
+- [Seller dashboard mockup](assets/Taylor_Seller_Dashboard_Mockup.pdf): Sample mockup of seller dashboard  
 - `.gitignore`: Files/folders excluded from version control  
 - `LICENSE`: Open-source license information
 
