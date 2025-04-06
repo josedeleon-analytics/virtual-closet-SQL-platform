@@ -102,8 +102,7 @@ See ER diagram.png` for data structure.
 
 | Feature             | Screenshot Example                      |
 |---------------------|------------------------------------------|
-| Seller Dashboard    | `Assets/seller_dashboard_mockup.png`     |
-| Item Resale History | `Assets/item_resale_history.png`         |
+| Seller Dashboard    | [`Assets/seller_dashboard_mockup.png` ](https://github.com/josedeleon-analytics/virtual-closet-platform/blob/main/assets/Taylor_Seller_Dashboard_Mockup.pdf)    |
 
 ---
 
