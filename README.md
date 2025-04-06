@@ -142,5 +142,5 @@ The application is built on a cloud-based **3-tier architecture**:
 
 **Jose De Leon**  
 🎓 Master’s in Analytics Candidate, Northeastern University  
-📬 [j.angel2294@gmail.com](mailto:j.angel2294@gmail.com)  
+📬 [Email me](mailto:j.angel2294@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jose-de-leon-analytics/)
