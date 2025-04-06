@@ -6,10 +6,17 @@ Thumbs.db
 .vscode/
 .idea/
 
-# SQLite backup files
-*.sqbpro-journal
+# SQLite database and project files (local only)
+*.db
+*.sqbpro
 *.db-journal
+*.sqbpro-journal
 
 # Temporary or backup files
 *.tmp
 ~$*.pptx
+~$*.docx
+
+# OS-specific hidden files
+Icon?
+._*
