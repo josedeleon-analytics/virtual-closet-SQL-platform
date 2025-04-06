@@ -57,6 +57,10 @@ Example SQL queries used in the project:
 
 Each query supports a real feature or metric in the app.
 
+## 📁 Repository Structure
+
+- `queries/Final project SQL FILE.sql`: SQL scripts used to implement the virtual closet database and generate analytics reports.
+
 ## 🔐 Security & Compliance
 
 The database stores:
