@@ -43,7 +43,7 @@ This project demonstrates proficiency in:
 - Understanding cloud-based architecture and data privacy
 
 ## 🧩 Project Structure
-📁 virtual-closet-platform/ ├── 📄 README.md ├── 📁 ERD/ │ └── virtual_closet_ERD.png ├── 📁 SQL/ │ ├── resale_tracking_queries.sql │ ├── analytics_reports_queries.sql ├── 📁 Presentation/ │ └── Virtual_Closet_Presentation.pptx ├── 📁 Database/ │ ├── final_project.db (not included - gitignored) │ └── final_project.sqbpro (not included - gitignored) ├── 📁 Assets/ │ ├── seller_dashboard_mockup.png │ ├── item_resale_history.png ├── 📄 .gitignore └── 📄 LICENSE
+📁 virtual-closet-platform/ ├── 📄 README.md ├── 📁 ERD/ │ └── ER diagram.jpg ├── 📁 SQL/ │ ├── Final project SQL FILE.sql │ ├── analytics_reports_queries.sql ├── 📁 Presentation/ │ └── Virtual-Closet-Platform.pdf ├── 📁 Database/ │ ├── final_project.db (not included - gitignored) │ └── final_project.sqbpro (not included - gitignored) ├── 📁 Assets/ │ ├── seller_dashboard_mockup.png │ ├── item_resale_history.png ├── 📄 .gitignore └── 📄 LICENSE
 
 
 ## 💡 SQL Highlights
