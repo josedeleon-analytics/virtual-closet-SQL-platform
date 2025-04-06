@@ -79,7 +79,7 @@ Each query supports a real feature or metric in the app.
 - [**ER diagram**](erd/ER%20diagram.jpg): Visual of database schema  
 - [**Virtual Closet Presentation**](presentation/Virtual-Closet-Platform.pdf): Final presentation slides  
 - [**Seller dashboard mockup**](assets/Taylor_Seller_Dashboard_Mockup.pdf): Dashboard UI prototype  
-- [**.gitignore**](https://github.com/josedeleon-analytics/virtual-closet-platform/blob/main/gitignore): Files/folders excluded from version control  
+- [**.gitignore**](https://github.com/josedeleon-analytics/virtual-closet-platform/blob/main/.gitignore): Files/folders excluded from version control  
 - [**LICENSE**](https://github.com/josedeleon-analytics/virtual-closet-platform/blob/main/LICENSE): Open-source license information  
 
 ---
