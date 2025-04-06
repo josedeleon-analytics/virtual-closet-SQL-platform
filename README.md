@@ -43,7 +43,7 @@ This project demonstrates proficiency in:
 - Understanding cloud-based architecture and data privacy
 
 ## 🧩 Project Structure
-📁 virtual-closet-platform/ ├── 📄 README.md ├── 📁 erd/ │ └── ER diagram.jpg ├── 📁 sql/ │ ├── Final project SQL FILE.sql │ ├── analytics_reports_queries.sql ├── 📁 presentation/ │ └── Virtual-Closet-Platform.pdf ├── 📁 Database/ │ ├── final_project.db (not included - gitignored) │ └── final_project.sqbpro (not included - gitignored) ├── 📁 assets/ │ ├── seller_dashboard_mockup.png │ ├── 📄 .gitignore └── 📄 LICENSE
+📁 virtual-closet-platform/ ├── 📄 README.md ├── 📁 erd/ │ └── ER diagram.jpg ├── 📁 sql/ │ ├── Final project SQL FILE.sql │ ├── analytics_reports_queries.sql ├── 📁 presentation/ │ └── Virtual-Closet-Platform.pdf ├── 📁 assets/ │ ├── seller_dashboard_mockup.png │ ├── 📄 .gitignore └── 📄 LICENSE
 
 
 ## 💡 SQL Highlights
@@ -59,7 +59,7 @@ Each query supports a real feature or metric in the app.
 
 ## 📁 Repository Structure
 
-- `queries/Final project SQL FILE.sql`: SQL scripts used to implement the virtual closet database and generate analytics reports.
+- `[queries/Final project SQL FILE.sql`](https://github.com/josedeleon-analytics/virtual-closet-platform/blob/main/sql/Final%20project%20SQL%20FILE.sql): SQL scripts used to implement the virtual closet database and generate analytics reports.
 
 ## 🔐 Security & Compliance
 
@@ -80,7 +80,7 @@ The platform uses a **cloud-based 3-tier architecture**:
 - Application Layer: API logic and AI/AR modules
 - Data Layer: PostgreSQL on cloud infrastructure
 
-See ER diagram.png` for data structure.
+See [ER diagram.png](https://github.com/josedeleon-analytics/virtual-closet-platform/blob/main/erd/ER%20diagram.jpg)` for data structure.
 
 ## 🎯 Future Improvements
 
