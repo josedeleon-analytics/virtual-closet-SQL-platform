@@ -102,7 +102,7 @@ See [ER diagram.jpg](https://github.com/josedeleon-analytics/virtual-closet-plat
 
 | Feature             | Screenshot Example                      |
 |---------------------|------------------------------------------|
-| Seller Dashboard    | [`Assets/seller_dashboard_mockup.png` ](https://github.com/josedeleon-analytics/virtual-closet-platform/blob/main/assets/Taylor_Seller_Dashboard_Mockup.pdf)    |
+| Seller Dashboard    | [`seller dashboard mockup` ](https://github.com/josedeleon-analytics/virtual-closet-platform/blob/main/assets/Taylor_Seller_Dashboard_Mockup.pdf)    |
 
 ---
 
