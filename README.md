@@ -80,7 +80,7 @@ The platform uses a **cloud-based 3-tier architecture**:
 - Application Layer: API logic and AI/AR modules
 - Data Layer: PostgreSQL on cloud infrastructure
 
-See [ER diagram.jpg](https://github.com/josedeleon-analytics/virtual-closet-platform/blob/main/erd/ER%20diagram.jpg) for data structure.
+See [ER diagram](https://github.com/josedeleon-analytics/virtual-closet-platform/blob/main/erd/ER%20diagram.jpg) for data structure.
 
 ## 🎯 Future Improvements
 
@@ -102,7 +102,7 @@ See [ER diagram.jpg](https://github.com/josedeleon-analytics/virtual-closet-plat
 
 | Feature             | Screenshot Example                      |
 |---------------------|------------------------------------------|
-| Seller Dashboard    | [`seller dashboard mockup` ](https://github.com/josedeleon-analytics/virtual-closet-platform/blob/main/assets/Taylor_Seller_Dashboard_Mockup.pdf)    |
+| Seller Dashboard    | [seller dashboard mockup](https://github.com/josedeleon-analytics/virtual-closet-platform/blob/main/assets/Taylor_Seller_Dashboard_Mockup.pdf)    |
 
 ---
 
