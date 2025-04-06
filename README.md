@@ -2,6 +2,7 @@
 
 ![License](https://img.shields.io/github/license/josedeleon-analytics/virtual-closet-platform)
 ![GitHub last commit](https://img.shields.io/github/last-commit/josedeleon-analytics/virtual-closet-platform)
+![Top Language](https://img.shields.io/github/languages/top/josedeleon-analytics/virtual-closet-platform)
 
 Welcome to the GitHub repository for my final project in **ITC6000: Database Management Systems** at Northeastern University. This project demonstrates the end-to-end design of a relational database application built around sustainable fashion, AI recommendations, and social commerce.
 
