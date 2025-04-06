@@ -106,9 +106,9 @@ See ER diagram.png` for data structure.
 
 ---
 
-## 📬 Contact
+## 👤 Author
+Jose De Leon Master’s in Analytics Candidate, Northeastern University 📬 Email: j.angel2294@gmail.com 🔗 LinkedIn: https://www.linkedin.com/in/jose-de-leon-analytics/
 
-If you’d like to learn more or collaborate, feel free to reach out through LinkedIn or GitHub.
 
 ---
 
