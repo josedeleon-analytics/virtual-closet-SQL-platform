@@ -72,7 +72,7 @@ Each query supports a real feature or metric in the app.
 
 ---
 
-## SQL Query
+## 🔎 Example SQL Analytics Query
 ```bash
 SELECT Users.username, SUM(Transactions.total_amount) AS total_revenue
 FROM Users
