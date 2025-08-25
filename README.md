@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/josedeleon-analytics/virtual-closet-platform)
 ![SQLite](https://img.shields.io/badge/SQL-SQLite-blue?logo=sqlite&logoColor=white)
 
-Welcome to the GitHub repository for my final project in **ITC6000: Database Management Systems** at Northeastern University. This project demonstrates the end-to-end design of a relational database application built around sustainable fashion, AI recommendations, and social commerce.
+Welcome to the GitHub repository for my final project in ITC6000: Database Management Systems at Northeastern University. This project demonstrates the end-to-end design of a relational database application built around sustainable fashion, AI recommendations, and social commerce.
 
 ---
 
