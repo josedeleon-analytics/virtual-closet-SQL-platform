@@ -72,15 +72,26 @@ Each query supports a real feature or metric in the app.
 
 ---
 
+## SQL Query
+```bash
+SELECT Users.username, SUM(Transactions.total_amount) AS total_revenue
+FROM Users
+JOIN User_Transactions ON Users.user_id = User_Transactions.user_id
+JOIN Transactions ON User_Transactions.transaction_id = Transactions.transaction_id
+WHERE User_Transactions.role = 'seller'
+GROUP BY Users.username
+ORDER BY total_revenue DESC
+LIMIT 10;
+```
+
+---
+
 ## 📁 Repository Structure
 
-- [**README.md**](README.md): Project overview and documentation  
-- [**SQL FILE**](sql/Final%20project%20SQL%20FILE.sql): SQL scripts for database creation, logic, and analytics  
-- [**ER diagram**](erd/ER%20diagram.jpg): Visual of database schema  
-- [**Virtual Closet Presentation**](presentation/Virtual-Closet-Platform.pdf): Final presentation slides  
-- [**Seller dashboard mockup**](assets/Taylor_Seller_Dashboard_Mockup.pdf): Dashboard UI prototype  
-- [**.gitignore**](https://github.com/josedeleon-analytics/virtual-closet-platform/blob/main/.gitignore): Files/folders excluded from version control  
-- [**LICENSE**](https://github.com/josedeleon-analytics/virtual-closet-platform/blob/main/LICENSE): Open-source license information  
+- [`Final Project SQL script`](sql/Final%20project%20SQL%20FILE.sql): SQL scripts for schema creation, CRUD, and analytics  
+- [`ER diagram`](erd/ER%20diagram.jpg): Entity-Relationship diagram  
+- [`Virtual Closet Platform PDF`](presentation/Virtual-Closet-Platform.pdf): Final presentation slides  
+- [`Seller Dashboard Mockup`](assets/Taylor_Seller_Dashboard_Mockup.pdf): Seller dashboard mockup  
 
 ---
 
@@ -132,9 +143,14 @@ The application is built on a cloud-based **3-tier architecture**:
 
 ## 📸 Screenshots
 
-| Feature           | Screenshot Example                                                                  |
-|------------------|--------------------------------------------------------------------------------------|
-| Seller Dashboard | [Seller Dashboard Mockup](assets/Taylor_Seller_Dashboard_Mockup.pdf)                |
+**1) Entity–Relationship Diagram (ERD)**  
+*Core database schema used by the app.*
+  
+![ER Diagram](erd/ER%20diagram.jpg)
+
+**2) Seller Dashboard (Mockup)**  
+*Product analytics & resale metrics concept UI.*  
+[Open the PDF](assets/Taylor_Seller_Dashboard_Mockup.pdf)
 
 ---
 
