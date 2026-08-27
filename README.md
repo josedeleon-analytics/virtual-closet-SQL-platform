@@ -123,7 +123,6 @@ The application is built on a cloud-based **3-tier architecture**:
 
 ## 📑 References
 
-- Chen, A. (2025). *ITC6000: Module 5 – Common Database Architectures*. Northeastern University.  
 - Google. (n.d.). [How Augmented Reality Works](https://arvr.google.com)  
 - Amazon Web Services. (n.d.). [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)  
 - PostgreSQL Global Development Group. (n.d.). [PostgreSQL Documentation](https://www.postgresql.org/docs/)  
