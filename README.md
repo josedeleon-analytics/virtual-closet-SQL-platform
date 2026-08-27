@@ -4,8 +4,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/josedeleon-analytics/virtual-closet-platform)
 ![SQLite](https://img.shields.io/badge/SQL-SQLite-blue?logo=sqlite&logoColor=white)
 
-Welcome to the GitHub repository for my final project in ITC6000: Database Management Systems at Northeastern University. This project demonstrates the end-to-end design of a relational database application built around sustainable fashion, AI recommendations, and social commerce.
-
 ---
 
 ## 📌 Project Overview
@@ -18,6 +16,7 @@ The **Virtual Closet Platform** is a mobile and web-based application that enabl
 - Buy, sell, or swap second-hand clothing
 - Receive personalized AI-powered fashion recommendations
 
+This project demonstrates the end-to-end design of a relational database application built around sustainable fashion, AI recommendations, and social commerce.
 The goal is to promote **sustainability** by extending the lifecycle of clothing through peer-to-peer exchange and digital wardrobe management.
 
 ---
