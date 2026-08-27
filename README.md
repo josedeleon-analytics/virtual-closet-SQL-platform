@@ -22,17 +22,6 @@ The goal is to promote **sustainability** by extending the lifecycle of clothing
 
 ---
 
-## 🧑‍💻 Author
-
-**Jose De Leon**  
-College of Professional Studies  
-Northeastern University  
-Course: *ITC6000 – Database Management Systems*  
-Instructor: *Professor Andy Chen*  
-📅 March 30, 2025  
-
----
-
 ## 📚 Features & Technologies
 
 | Feature                  | Technology                                |
@@ -154,9 +143,9 @@ The application is built on a cloud-based **3-tier architecture**:
 
 ---
 
-## 👤 Contact
+## 👤 Author
 
 **Jose De Leon**  
-🎓 Master’s in Analytics Candidate, Northeastern University  
+
 📬 [Email me](mailto:j.angel2294@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jose-de-leon-analytics/)
